@@ -37,6 +37,18 @@ console.log(" ");
 console.log("-------------------------------------");
 console.log("> MASS DATA");
 console.log("-------------------------------------");
+console.log("* Crew mass: " + crewMassKg + " Kg");
+console.log("* Fuel mass: " + fuelMassKg + " Kg");
+console.log("* Shuttle mass: " + shuttleMassKg + " Kg");
+console.log("* Total mass: " + totalMassKg + " Kg");
+console.log("\n-------------------------------------");
+console.log("> FLIGHT PLAN");
+console.log("-------------------------------------");
+console.log("* weather: " + weatherStatus);
+console.log("\n-------------------------------------");
+console.log("> OVERALL STATUS");
+console.log("-------------------------------------");
+console.log("* Clear for takeoff: YES");
 
 // When done, have your TA check your code.
 
